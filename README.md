@@ -40,16 +40,3 @@ Once the website is up and running, users can:
 - Proceed to the payment gateway for secure online transactions using Stripe.
 - Access the "Travel Buddy" feature to find and connect with other users who are interested in traveling to the same destinations.
 
-## License
-
-The code in this repository is licensed under the MIT License. You are free to use, modify, and distribute the code for personal or commercial purposes.
-
-## Acknowledgments
-
-The development of this Tourism Management website is inspired by various online tutorials, documentation, and resources related to the MERN stack, payment gateway integration, and travel applications. The links to relevant resources and libraries used are provided within the code for further reference.
-
-## Contribution
-
-Contributions to enhance and expand the functionality of this Tourism Management website are welcome. Feel free to submit pull requests or open issues for bug fixes, feature requests, or improvements.
-
-Enjoy exploring and developing the Tourism Management website!
